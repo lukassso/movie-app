@@ -31,7 +31,7 @@ This project has been refactored to enhance performance and maintainability. The
 ### Philosophy
 
 - Minimal code
-- Responsive Web Design
+- Responsive Web Design (RWD)
 - 🚀 Production-ready
 
 ### Requirements
